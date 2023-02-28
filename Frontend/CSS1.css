@@ -1,0 +1,21 @@
+h1 {
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    \font-size: 70px;
+    \font-size: x-large;
+}
+
+body{
+    \background-color:gainsboro;
+    
+}
+
+p{
+    font-family:monospace;
+    font-size:x-large;
+    line-height: 1.5em;
+    text-align: justify;
+    background-color:aliceblue;
+    \color: darkgreen;
+}
+
